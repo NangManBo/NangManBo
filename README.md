@@ -1,4 +1,5 @@
-### Hi there 👋
+## 안녕 반가워 👋
+## 컴퓨터 공학과
 
 Here are some ideas to get you started:
 
