@@ -22,5 +22,10 @@
 
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NangManBo)
+## 언어 비율
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NangManBo&layout=compact)](https://github.com/NangManBo/github-readme-stats)
+
+## Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
