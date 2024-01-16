@@ -23,6 +23,6 @@
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NangManBo)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bosung0413&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bosung0413&layout=compact)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bosung0413&theme=xcode)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=NangManBo&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=NangManBo&layout=compact)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?user=NangManBo&theme=xcode)
