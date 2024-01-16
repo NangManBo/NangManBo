@@ -23,4 +23,4 @@
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NangManBo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbosung22@naver.com)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbosung22@naver.com&layout=compact)](https://github.com/kimbosung22@naver.com/github-readme-stats)
