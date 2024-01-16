@@ -21,3 +21,8 @@
 ## 블로그
 
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[NangManBo]&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[NangManBo]&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[NangManBo])
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=[NangManBo]&theme=xcode)
