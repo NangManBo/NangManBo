@@ -10,7 +10,6 @@
 
 ## 기술 스택
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
