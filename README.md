@@ -22,10 +22,12 @@
 
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
-## 사용 언어
+## 💻 언어
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 
 ## 📊 GitHub Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
