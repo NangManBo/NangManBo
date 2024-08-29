@@ -1,11 +1,11 @@
 # 안녕 반가워 👋
 
-## 소개
+## 😌 소개
 
 - 🌱 현재 프론트엔드 공부하고 있습니다!
 - 📫 연락처: kimbosung22@naver.com
 
-## 기술 스택
+## 🚀 기술 스택
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -18,14 +18,16 @@
 ![GameMaker Studio](https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white)
 
 
-## 블로그
+## 📝 블로그 & 소셜 미디어
 
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
-## 언어 비율
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NangManBo&layout=compact)](https://github.com/NangManBo/github-readme-stats)
-
-## Github stats
+## 📊 GitHub Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
+
+## 📈 Contribution Outline
+
+<img src="https://activity-graph.herokuapp.com/graph?username=NangManBo&bg_color=1a1b27&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true" />
+
