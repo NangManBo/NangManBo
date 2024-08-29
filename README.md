@@ -1,7 +1,5 @@
 # 안녕 반가워 👋
 
-## 컴퓨터 공학과
-
 ## 소개
 
 - 🌱 현재 프론트엔드 공부하고 있습니다!
@@ -32,8 +30,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
 
-### 🖐🏻 About Me
-
-<h2 align="center">Hi 👋, I'm Bosung Kim</h2>
-<h3 align="center">A passionate app & game developer from South Korea</h3>
 
