@@ -18,12 +18,10 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![GameMaker Studio](https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white)
 
-## 💻 언어
+## 💻 언어 & 📊 GitHub Status
 
+<div style={{display:flex, flex-direction : row}}>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 
-## 📊 GitHub Status
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+</div>
