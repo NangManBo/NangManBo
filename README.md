@@ -1,5 +1,5 @@
-<p align='center',style="font-size: 40px;">😄 보성 GITHUB 😄</p>
-<p></p>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=😄%20보성%20GITHUB%20😄&fontSize=50&fontAlignY=50)
+
 
 <p>
   🌱 현재 프론트엔드 기술을 공부하며 발전하고 있습니다!<br>
