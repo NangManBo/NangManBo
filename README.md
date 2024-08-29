@@ -19,7 +19,7 @@
 
 ## 
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" />
