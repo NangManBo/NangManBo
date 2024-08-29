@@ -31,3 +31,7 @@
 ## Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NangManBo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
