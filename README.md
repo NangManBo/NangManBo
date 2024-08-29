@@ -1,5 +1,5 @@
-<p align='center',style="font-size: 24px;">😄 보성 GITHUB</p>
-
+<p align='center',style="font-size: 40px;">😄 보성 GITHUB 😄</p>
+<p></p>
 
 <p>
   🌱 현재 프론트엔드 기술을 공부하며 발전하고 있습니다!<br>
