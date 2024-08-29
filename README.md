@@ -1,4 +1,4 @@
-<p> 😄보성 GITHUB</p>
+<p align='center',style="font-size: 24px;">😄 보성 GITHUB</p>
 
 
 <p>
