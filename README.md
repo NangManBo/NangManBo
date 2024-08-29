@@ -1,6 +1,11 @@
 # 👋 안녕 반가워요!
 
+
+
 <h2>✨ 프론트엔드 개발자 김보성입니다! ✨</h2>
+
+
+
 
 <p>
   🌱 현재 프론트엔드 기술을 공부하며 발전하고 있습니다!<br>
@@ -8,7 +13,7 @@
 </p>
 
 
-##
+
 
 ---
 
@@ -26,13 +31,11 @@
   <img src="https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white"/>
 </p>
 
-##
 
 
-##
 
 
-##
+
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
