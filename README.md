@@ -29,5 +29,5 @@
 
 ## 📈 Contribution Outline
 
-<img src="https://activity-graph.herokuapp.com/graph?username=NangManBo&bg_color=1a1b27&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graphusername=NangManBo&bg_color=1a1b27&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true" />
 
