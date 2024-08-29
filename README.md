@@ -1,5 +1,3 @@
-# 👋 안녕 반가워요!
-
 <h2 align="center">✨ 프론트엔드 개발자 김보성입니다! ✨</h2>
 
 <p align="center">
@@ -27,8 +25,9 @@
 
 ## 📊 GitHub 통계
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%; float: left; margin-right: 5%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; float: right; margin-left: 5%;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;">
 </div>
+
 
