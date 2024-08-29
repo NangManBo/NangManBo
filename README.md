@@ -4,7 +4,6 @@
 
 - 🌱 현재 프론트엔드 공부하고 있습니다!
 - 📫 연락처: kimbosung22@naver.com
-- 📝 블로그: [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
 ## 🚀 기술 스택
 
