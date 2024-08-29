@@ -32,6 +32,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
 
-### GitHub Trophies
+### 🖐🏻 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NangManBo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center">Hi 👋, I'm Bosung Kim</h2>
+<h3 align="center">A passionate app & game developer from South Korea</h3>
+
