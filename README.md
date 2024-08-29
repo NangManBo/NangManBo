@@ -21,12 +21,13 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" />
     </td>
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 20px; border:none;">
       <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
+
 
