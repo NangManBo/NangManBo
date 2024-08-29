@@ -18,7 +18,7 @@
 ![GameMaker Studio](https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white)
 
 
-## 📝 블로그 & 소셜 미디어
+## 📝 블로그
 
 [![Blog](https://img.shields.io/badge/-블로그-1DA1F2?style=flat-square)](https://bbosung.tistory.com/)
 
@@ -26,9 +26,3 @@
 ## 📊 GitHub Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical)
-
-## 📈 Contribution Outline
-
-<img src="https://activity-graph.herokuapp.com/graph?username=NangManBo&bg_color=1a1b27&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=true" />
-
-
