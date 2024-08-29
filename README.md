@@ -19,10 +19,11 @@
 
 ## 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%; float: left; margin-right: 5%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; float: right; margin-left: 5%;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 200px; margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; margin-left: 20px;">
 </div>
+
 
 
 
