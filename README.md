@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 기술 스택
+### 🚀 기술 스택
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -23,11 +23,18 @@
 
 ---
 
-## 📊 GitHub 통계
+### 📊 GitHub 통계
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;">
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 200px;">
+    </td>
+    <td style="border:none; padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;">
+    </td>
+  </tr>
+</table>
+
 
 
