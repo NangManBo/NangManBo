@@ -1,6 +1,6 @@
-<p align="center">✨ 프론트엔드 개발자 김보성입니다! ✨</p>
+<h3>✨ 프론트엔드 개발자 김보성입니다! ✨</h3>
 
-<p align="center">
+<p>
   🌱 현재 프론트엔드 기술을 공부하며 발전하고 있습니다!<br>
   📫 <strong>연락처:</strong> <a href="mailto:kimbosung22@naver.com">kimbosung22@naver.com</a>
 </p>
