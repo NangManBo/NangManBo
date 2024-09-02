@@ -33,5 +33,5 @@
 <hr>
 
 <div align="center" style="margin-top: 20px;">
- <img src="./profile-3d-contrib/profile-night-view" alt="3D Grass Animation">
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Grass Animation">
 </div>
