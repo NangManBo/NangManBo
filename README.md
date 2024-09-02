@@ -26,8 +26,6 @@
 </p>
 
 
-
-
 <div align="center" style="margin-bottom: 200px;">
  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;">
 </div>
@@ -35,5 +33,5 @@
 <hr>
 
 <div align="center" style="margin-top: 20px;">
- <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Grass Animation">
+ <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Grass Animation">
 </div>
