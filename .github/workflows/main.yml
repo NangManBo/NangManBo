@@ -1,32 +1,24 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  push:
-    branches:
-      - main
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    name: generate-github-profile-3d-contrib
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Configure Git
-      run: |
-        git config user.name "NangManBo"
-        git config user.email "kimbosung22@naver.com"
-
-    - name: Generate 3D Grass
-      run: |
-        # 여기에 3D 잔디를 생성하는 스크립트 또는 명령어
-
-    - name: Commit and Push changes
-      run: |
-        git add -A
-        git commit -m "generated"
-        git push https://$GH_PAT@github.com/NangManBo/NangManBo.git HEAD:main
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name NangManBo
+          git config user.email kimbosung22@naver.com
+          git add -A .
+          git commit -m "generated"
+          git push
