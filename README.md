@@ -32,6 +32,4 @@
  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;">
 </div>
 
-<div align="center">
-  ![](./profile-3d-contrib/profile-green-animate.svg)
-</div>
+![](./profile-3d-contrib/profile-green-animate.svg)
