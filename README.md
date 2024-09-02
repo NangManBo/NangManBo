@@ -13,18 +13,9 @@
 
 ## 🚀 기술 스택
 
-<style>
-  .tech-stack img {
-    margin-bottom: 10px;
-  }
+## 🚀 기술 스택
 
-  .github-stats,
-  .grass-animation {
-    margin-bottom: 20px;
-  }
-</style>
-
-<p align="center" class="tech-stack">
+<p align="center">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -36,11 +27,13 @@
   <img src="https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=flat&logo=gamemaker-studio&logoColor=white"/>
 </p>
 
-<div align="center" class="github-stats">
+
+
+
+<div align="center" style="margin-bottom: 20px;">
  <img src="https://github-readme-stats.vercel.app/api?username=NangManBo&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;">
 </div>
 
-<div align="center" class="grass-animation">
+<div align="center" style="margin-top: 20px;">
  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Grass Animation">
 </div>
-
