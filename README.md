@@ -11,12 +11,29 @@
 
 ## 🚀 기술 스택
 
-🎮 게임 개발
-<p align="left"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-GameMaker_Studio-8DCA09?style=flat&logo=gamemaker-studio&logoColor=white"/> </p> 
-🌐 웹/앱 (Frontend)
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> </p>
-🖥️ 서버 (Backend)
-<p align="left"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=white"/> </p>
+<h3>🎮 게임 개발</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" height="28"/>
+  <img src="https://img.shields.io/badge/GameMaker_Studio-8DCA09?style=for-the-badge&logo=gamemaker-studio&logoColor=white" alt="GameMaker Studio" height="28"/>
+</p>
+
+<h3>🌐 웹/앱 (Frontend)</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="28"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="28"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="28"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="28"/>
+</p>
+
+<h3>🖥️ 서버 (Backend)</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" height="28"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28"/>
+</p>
+
+
 
 
 <div align="left" style="margin-bottom: 200px;">
