@@ -3,7 +3,7 @@
 
 <p>
   🌱 현재 프론트엔드 기술을 공부하며 발전하고 있습니다!<br>
-  📫 <strong>연락처:</strong> <a href="mailto:kimbosung22@naver.com">kimbosung22@naver.com</a>
+  📫 <strong>연락처:</strong> <a href="mailto:kimbosung222@naver.com">kimbosung222@naver.com</a>
 </p>
 
 
