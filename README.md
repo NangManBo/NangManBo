@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=😄%20GITHUB%20💻&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=😄%20BoSeong%20💻&fontSize=50&fontAlignY=50)
 
 <p>
   🌱 현재 프론트엔드와 백엔드를 같이 공부하며 발전하고 있습니다!<br>
