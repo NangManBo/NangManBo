@@ -43,7 +43,3 @@
 </div>
 
 <hr>
-
-<div align="left" style="margin-top: 20px;">
- <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Grass Animation">
-</div>
